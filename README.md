@@ -42,6 +42,14 @@ Conway's Game of Life follows four simple rules applied to each cell on a grid:
 - .NET Windows Forms
 
 ---
+  
+## 🛠️ How to Run This Project
 
+1. Click the green **Code** button → **Download ZIP**
+2. Extract the ZIP file to a folder
+3. Open `ConwayWinApp.sln` in Visual Studio 2022
+4. Press **Start** (▶️) or F5 to run the simulation
+
+---
 Enjoy experimenting with life itself.  
 *– Brennan Waters*
